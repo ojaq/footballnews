@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Footy News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="getting_news">Getting News...</string>
+    <string name="image_for_news_item">Image for News Item</string>
+    <string name="detail_image_news">detail_image_news</string>
+    <string name="search">Search</string>
+    <string name="search_hint">What are you looking for?</string>
+</resources>
